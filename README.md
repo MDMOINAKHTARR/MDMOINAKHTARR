@@ -1,69 +1,74 @@
-# Hi there, I'm Md Moin Akhtar! 👋 
+# ⚡ Md Moin Akhtar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=B.Tech+AI+%26+Data+Science+Student;AI+Researcher+at+ICAUC+2026;Full-Stack+Developer;Building+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Researcher+@+ICAUC;Full-Stack+Engineer;Data+Science+Lead;Nightwing+Enthusiast+🦇" alt="Typing SVG" />
 </p>
 
-### 🧠 About Me
-[cite_start]I am a passionate B.Tech student specializing in **Artificial Intelligence and Data Science** (6th semester)[cite: 8, 16]. [cite_start]My technical focus bridges the gap between AI research and practical, full-stack software development[cite: 17, 18]. [cite_start]I am eager to apply my skills in real-world environments and contribute meaningfully to innovative teams[cite: 18].
+### 🎓 The Mission
+[cite_start]I am a 6th-semester B.Tech student in **Artificial Intelligence and Data Science** at Vivekananda School of Engineering and Technology[cite: 7, 8]. My work focuses on bridging the gap between cutting-edge AI research and production-ready applications. [cite_start]I specialize in **Java**, **Python**, and **Full-Stack development**[cite: 16, 39].
 
 ---
 
-## 🛠️ My Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,nodejs,express,tailwind,mysql,sqlite,pytorch,git,github,vscode,cursor" />
+## 🛠️ My Digital Armory
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,nodejs,express,tailwind,mysql,sqlite,pytorch,git,github,vscode,cursor&theme=dark" />
+  </a>
 </p>
 
 ---
 
-## 📊 Coding & Activity Stats
+## 🔬 Featured Intel (Projects & Research)
 
-### GitHub & LeetCode Activity
-| **GitHub Streak** | **LeetCode Stats** |
-| :--- | :--- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDMOINAKHTARR&theme=tokyonight) | ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=mdmoinakhtar&theme=tokyonight) |
-
-> [cite_start]*Note: I keep my problem-solving skills sharp by consistently practicing on LeetCode[cite: 17].*
+* [cite_start]**AI Hallucination Research** [cite: 19][cite_start]: Published at **ICAUC 2026**[cite: 21]. [cite_start]Developed a sentence-level risk estimator using **BERT**, **NLI**, and factuality checks to make LLMs more reliable[cite: 23, 24].
+* [cite_start]**Upstart** [cite: 28][cite_start]: An AI-powered platform transforming startup ideas into MVP roadmaps using **Next.js** and **Google Gen AI**[cite: 28, 29].
+* [cite_start]**Emotion-Based Recommender** [cite: 32][cite_start]: Real-time movie suggestions via facial emotion detection using **OpenCV** and **DeepFace**[cite: 32, 33].
 
 ---
 
-## 🧪 Research & Featured Projects
+## 📈 Performance Metrics
 
-### 📝 AI Hallucination Research
-* [cite_start]**Project**: A Sentence-Level Risk Estimator for Identifying Hallucinations in Generative AI[cite: 20].
-* [cite_start]**Impact**: Presented at the International Conference on AI-Driven Smart Systems and Ubiquitous Computing (ICAUC) in 2026[cite: 21, 23].
-* [cite_start]**Methodology**: Designed a unified risk-scoring approach using BERT semantic similarity, QA-based factuality checks, and NLI entailment to improve LLM reliability[cite: 24, 25].
-
-### 🚀 Upstart
-* [cite_start]**Tech**: Next.js, React, Node.js, Express.js, SQLite, Google Gen AI[cite: 28].
-* [cite_start]**Description**: An AI-powered platform that transforms startup ideas into validated business plans and 4-week MVP roadmaps[cite: 28].
-* [cite_start]**Features**: Integrated Google Trends API for market insights and implemented a secure dashboard with JWT authentication[cite: 29, 31].
-
-### 🎥 Emotion-Based Movie Recommender
-* [cite_start]**Tech**: Python, OpenCV, DeepFace, TMDB API, MySQL[cite: 32].
-* [cite_start]**Functionality**: A smart system that detects real-time facial emotions via webcam and suggests movies accordingly[cite: 32, 33].
-* [cite_start]**Control**: Users can confirm or adjust detected emotions to improve system accuracy[cite: 37].
-
----
-
-## 🏆 Leadership
-* [cite_start]**Event Management Head** at Cluster (Data Science Club)[cite: 42, 43].
-* [cite_start]I lead the organization of technical events, workshops, and webinars, ensuring smooth team coordination and high student participation[cite: 46, 47].
-
----
-
-## 🎓 Education
-* **B.Tech (Artificial Intelligence and Data Science)** | Vivekananda School of Engineering and Technology | [cite_start]CGPA: 8.03[cite: 7, 8].
-* **Senior Secondary** | School of Specialized Excellence | [cite_start]85.4%[cite: 9, 14].
-
----
-
-## 📫 Let's Connect
-<p align="left">
-<a href="https://linkedin.com/in/mdmoinakhtar"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdmoinakhtar" height="30" width="40" /></a>
-<a href="mailto:mohdmoinakhtar081@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mohdmoinakhtar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDMOINAKHTARR&theme=tokyonight&area=true" width="100%" />
 </p>
 
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=MDMOINAKHTARR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<table align="center">
+  <tr>
+    <td align="center"><b>GitHub Pulse</b></td>
+    <td align="center"><b>LeetCode Proficiency</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MDMOINAKHTARR&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td><img src="https://leetcard.jacoblin.cool/mdmoinakhtar?theme=dark&font=Syne%20Mono&ext=contest" alt="LeetCode Card" /></td>
+  </tr>
+</table>
+
+### 🔥 Problem Solving Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdmoinakhtar&theme=tokyonight&hide_border=true" alt="LeetCode Streak" />
+</p>
+
+---
+
+## 🏆 Leadership & Lore
+* [cite_start]**Data Science Club (Cluster)**: Serving as the **Event Management Head**, leading technical workshops and AI webinars[cite: 42, 43, 46].
+* **Vigilante Hobbies**: Huge fan of the **Batman Family**—Nightwing is my blueprint for discipline and versatility.
+
+---
+
+## 📫 Secure Line
+<p align="center">
+<a href="https://linkedin.com/in/mdmoinakhtar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohdmoinakhtar081@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/MDMOINAKHTARR_moinn" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=MDMOINAKHTARR&label=Profile%20Intelligence%20Gathered&color=7AA2F7&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+<p align="center">
+  <i>"The night is darkest just before the code finally compiles."</i>
 </p>
