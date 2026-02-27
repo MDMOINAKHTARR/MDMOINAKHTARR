@@ -5,7 +5,7 @@
 </p>
 
 ### 🎓 The Mission
-[cite_start]I am a 6th-semester B.Tech student in **Artificial Intelligence and Data Science** at Vivekananda School of Engineering and Technology[cite: 7, 8]. My work focuses on bridging the gap between cutting-edge AI research and production-ready applications. [cite_start]I specialize in **Java**, **Python**, and **Full-Stack development**[cite: 16, 39].
+I am a 6th-semester B.Tech student in **Artificial Intelligence and Data Science** at Vivekananda School of Engineering and Technology. My work focuses on bridging the gap between cutting-edge AI research and production-ready applications. I specialize in **Java**, **Python**, and **Full-Stack development**.
 
 ---
 
@@ -21,9 +21,9 @@
 
 ## 🔬 Featured Intel (Projects & Research)
 
-* [cite_start]**AI Hallucination Research** [cite: 19][cite_start]: Published at **ICAUC 2026**[cite: 21]. [cite_start]Developed a sentence-level risk estimator using **BERT**, **NLI**, and factuality checks to make LLMs more reliable[cite: 23, 24].
-* [cite_start]**Upstart** [cite: 28][cite_start]: An AI-powered platform transforming startup ideas into MVP roadmaps using **Next.js** and **Google Gen AI**[cite: 28, 29].
-* [cite_start]**Emotion-Based Recommender** [cite: 32][cite_start]: Real-time movie suggestions via facial emotion detection using **OpenCV** and **DeepFace**[cite: 32, 33].
+* **AI Hallucination Research**: Published at **ICAUC 2026**. Developed a sentence-level risk estimator using **BERT**, **NLI**, and factuality checks to make LLMs more reliable[cite: 23, 24].
+* **Upstart**: An AI-powered platform transforming startup ideas into MVP roadmaps using **Next.js** and **Google Gen AI**.
+* **Emotion-Based Recommender** : Real-time movie suggestions via facial emotion detection using **OpenCV** and **DeepFace**.
 
 ---
 
@@ -52,7 +52,7 @@
 ---
 
 ## 🏆 Leadership & Lore
-* [cite_start]**Data Science Club (Cluster)**: Serving as the **Event Management Head**, leading technical workshops and AI webinars[cite: 42, 43, 46].
+* **Data Science Club (Cluster)**: Serving as the **Event Management Head**, leading technical workshops and AI webinars.
 * **Vigilante Hobbies**: Huge fan of the **Batman Family**—Nightwing is my blueprint for discipline and versatility.
 
 ---
