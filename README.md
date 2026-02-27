@@ -1,57 +1,60 @@
-# Hi there, I'm Md Moin Akhtar! 🚀
+# Hi there, I'm Md Moin Akhtar! 👋 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=AI+Research+at+ICAUC+2026;Full-Stack+Developer;Data+Science+Enthusiast;Building+Autonomous+Systems" alt="Typing SVG" />
+</p>
 
 ### 🧠 B.Tech Student | AI Researcher | Full-Stack Developer
-I am a 6th-semester student specializing in **Artificial Intelligence and Data Science** at Vivekananda School of Engineering and Technology .I am passionate about bridging the gap between AI research and scalable software products.
+[cite_start]I am a 6th-semester student specializing in **Artificial Intelligence and Data Science** at Vivekananda School of Engineering and Technology[cite: 8, 16]. [cite_start]I am passionate about bridging the gap between AI research and scalable software products[cite: 17, 18].
 
 ---
 
-## 🛠️ Technical Toolbox
-
-### 💻 Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🤖 AI & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🛠️ My Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,nodejs,express,tailwind,mysql,sqlite,pytorch,git,github,vscode,cursor" />
+  </a>
+</p>
 
 ---
 
-## 📈 My Coding Stats
+## 📈 Activity & Stats
 
-| **GitHub Activity** | **LeetCode Stats** |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDMOINAKHTARR&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+| **GitHub Stats** | **LeetCode Stats** |
 | :--- | :--- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDMOINAKHTARR&theme=dark) | ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=mdmoinakhtar&theme=dark) |
+| ![Moin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDMOINAKHTARR&show_icons=true&theme=tokyonight) | ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=mdmoinakhtar&theme=tokyonight) |
+
+### 🕸️ Contribution Graph
+![A graph showing my github contributions](https://github-readme-activity-graph.vercel.app/graph?username=MDMOINAKHTARR&theme=tokyonight)
 
 ---
 
 ## 🧪 Featured Research & Projects
 
-* [cite_start]**AI Hallucination Research** [cite: 20][cite_start]: Presented at **ICAUC 2026**, focusing on a sentence-level risk estimator using BERT and NLI[cite: 21, 23, 24].
-* [cite_start]**Upstart** [cite: 28][cite_start]: An AI-powered business plan generator using **Next.js** and **Google Gen AI**[cite: 28, 29].
-* [cite_start]**Emotion Recommender** [cite: 32][cite_start]: A real-time movie suggestion engine using **DeepFace** and **OpenCV**[cite: 32, 33].
+* [cite_start]**AI Hallucination Research [cite: 20][cite_start]**: Presented a paper at **ICAUC 2026** focusing on a sentence-level risk estimator using BERT and NLI[cite: 21, 24].
+* [cite_start]**Upstart [cite: 28][cite_start]**: An AI-powered business plan generator using **Next.js** and **Google Gen AI**[cite: 28, 29].
+* [cite_start]**Emotion Recommender [cite: 32][cite_start]**: A real-time movie suggestion engine using **DeepFace** and **OpenCV**[cite: 32, 33].
 
 ---
 
 ## 🏆 Leadership
 * [cite_start]**Event Management Head** at Cluster (Data Science Club)[cite: 42, 43].
-* [cite_start]Organizing technical workshops and webinars for AI enthusiasts[cite: 46].
+* [cite_start]Organizing technical workshops and webinars for AI enthusiasts at Vivekananda School of Engineering and Technology[cite: 45, 46].
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmoinakhtar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdmoinakhtar081@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/mdmoinakhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdmoinakhtar" height="30" width="40" /></a>
+<a href="mailto:mohdmoinakhtar081@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mohdmoinakhtar081" height="30" width="40" /></a>
+</p>
 
-*"The best way to predict the future is to build it."*
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=MDMOINAKHTARR&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+*"The night is darkest just before the code finally compiles."*
