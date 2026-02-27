@@ -1,7 +1,7 @@
 # Hi there, I'm Md Moin Akhtar! 🚀
 
 ### 🧠 B.Tech Student | AI Researcher | Full-Stack Developer
-[cite_start]I am a 6th-semester student specializing in **Artificial Intelligence and Data Science** at Vivekananda School of Engineering and Technology[cite: 7, 8, 16]. [cite_start]I am passionate about bridging the gap between AI research and scalable software products[cite: 17, 18].
+I am a 6th-semester student specializing in **Artificial Intelligence and Data Science** at Vivekananda School of Engineering and Technology .I am passionate about bridging the gap between AI research and scalable software products.
 
 ---
 
