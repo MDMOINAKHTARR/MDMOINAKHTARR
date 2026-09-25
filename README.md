@@ -1,78 +1,124 @@
-# ⚡ Md Moin Akhtar
+<div align="center">
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg5eng1ZmFidTUwNmkycTlod2RvNmxmMm9hcjNxNnhhNWd6MDR6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvlJSmxmKSXyE/giphy.gif" width="450" alt="Nightwing GIF" />
-</p>
+# Md Moin Akhtar
+### Software Engineer & AI Integrator
+*Full-Stack Systems • Autonomous AI Agents • Applied Machine Learning*
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Researcher+@+ICAUC;Full-Stack+Engineer;Data+Science+Lead;Nightwing+Enthusiast+🦇" alt="Typing SVG" />
-</p>
+<br/>
 
-### 🎓 The Mission
-I am a 6th-semester B.Tech student in **Artificial Intelligence and Data Science** at Vivekananda School of Engineering and Technology. My work focuses on bridging the gap between cutting-edge AI research and production-ready applications. I specialize in **Java**, **Python**, and **Full-Stack development**.
+<a href="https://github.com/MDMOINAKHTARR">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg5eng1ZmFidTUwNmkycTlod2RvNmxmMm9hcjNxNnhhNWd6MDR6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvlJSmxmKSXyE/giphy.gif" width="420" alt="Nightwing" style="border-radius: 6px;" />
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+AI+Integrator;Published+IEEE+Researcher+%5BICAUC+'26%5D;Full-Stack+Architectures+%7C+TypeScript+%7C+Python;Winner+%40+Hermes+x+GrowthX+Buildathon;Nightwing+Protocol+Activated" alt="Typing SVG" />
+
+<br/>
+
+[![Status](https://img.shields.io/badge/Status-Active_%2F_Deployable-059669?style=flat-square)](https://github.com/MDMOINAKHTARR)
+[![Education](https://img.shields.io/badge/Education-B.Tech_AI_%26_Data_Science-2563eb?style=flat-square)](https://github.com/MDMOINAKHTARR)
+[![IEEE Research](https://img.shields.io/badge/IEEE_Xplore-Document_%2311441054-00629b?style=flat-square)](https://ieeexplore.ieee.org/document/11441054)
+[![Base](https://img.shields.io/badge/Location-New_Delhi%2C_India-4b5563?style=flat-square)](https://github.com/MDMOINAKHTARR)
 
 ---
 
-## 🛠️ My Digital Armory
+</div>
+
+### About
+
+6th-semester B.Tech student in **Artificial Intelligence and Data Science** at Vivekananda Institute of Professional Studies (VIPS-TC), New Delhi. My work centers on bridging applied machine learning research with scalable, production-ready web platforms and developer tools.
+
+---
+
+### Featured Research & Projects
+
+* **AI Hallucination Risk Estimator** `[IEEE Xplore #11441054]`  
+  Published research presented at **ICAUC 2026**. Proposes a sentence-level risk engine combining **BERT** semantic embeddings, QA-based factuality checks, and **Natural Language Inference (NLI)** entailment logic to detect hallucinations in generative models.  
+  [IEEE Publication](https://ieeexplore.ieee.org/document/11441054)
+
+* **LazyClip.buzz** `[1st Place — Hermes x GrowthX Buildathon]`  
+  Open-source natural-language AI video editor built in an 8-hour sprint. Enables creators to edit footage directly via text prompts with **ElevenLabs** speech synthesis and **OpenAI Whisper**. Onboarded 100+ users on launch day.  
+  [Live Website](https://lazyclip.buzz)
+
+* **Upstart Blueprint**  
+  AI-powered planning engine that transforms startup ideas into validated roadmaps and 4-week MVP execution architectures. Leverages **Google Generative AI (Gemini)**, **Neo4j**, and **Google Trends** for market insight validation.  
+  [Repository](https://github.com/MDMOINAKHTARR)
+
+* **Emotion-Based Recommender**  
+  Vision-driven movie recommendation pipeline. Tracks user facial expressions via webcam with **DeepFace** and **OpenCV**, pairing dynamic emotional states with **TF-IDF + Cosine Similarity** against TMDB catalog data.  
+  [Repository](https://github.com/MDMOINAKHTARR)
+
+---
+
+### Technical Armory
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,nodejs,express,tailwind,mysql,sqlite,pytorch,git,github,vscode,cursor&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,react,nextjs,nodejs,express,tailwind,postgres,mysql,pytorch,git,github,docker,vscode&theme=dark" />
   </a>
 </p>
 
 ---
 
-## 🔬 Featured Intel (Projects & Research)
-
-* **AI Hallucination Research**: Presented a paper at **ICAUC 2026** proposing a framework to detect hallucinations in generative AI at the sentence level. Designed a unified risk scoring approach combining **BERT**, **QA-based factuality checks**, and **NLI entailment**.
-* **Upstart**: An AI-powered platform that transforms startup ideas into validated business plans and 4-week MVP roadmaps. Integrated **Google Generative AI** and **Google Trends** to generate market insights and execution strategies.
-* **Emotion-Based Recommender**: Built a smart movie recommendation system using **DeepFace** with **OpenCV** to detect dominant emotions via webcam. Integrated **TMDB API** for dynamic movie data and implemented **TF-IDF + Cosine Similarity** for content filtering.
-
----
-
-## 📈 Performance Metrics
+### Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDMOINAKHTARR&theme=tokyonight&area=true" width="100%" />
+  <a href="https://github.com/MDMOINAKHTARR">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDMOINAKHTARR&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="95%" alt="Activity Graph" />
+  </a>
 </p>
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="4">
   <tr>
-    <td align="center"><b>GitHub Pulse</b></td>
-    <td align="center"><b>LeetCode Proficiency</b></td>
+    <td align="center" width="50%"><b>GitHub Activity</b></td>
+    <td align="center" width="50%"><b>LeetCode Proficiency</b></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=MDMOINAKHTARR&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
-    <td><img src="https://leetcard.jacoblin.cool/mdmoinakhtar?theme=dark&font=Syne%20Mono&ext=contest" alt="LeetCode Card" /></td>
+    <td align="center" valign="top">
+      <a href="https://github.com/MDMOINAKHTARR">
+        <img src="https://github-readme-stats.vercel.app/api?username=MDMOINAKHTARR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5" width="100%" alt="GitHub Stats" />
+      </a>
+      <br/>
+      <a href="https://github.com/MDMOINAKHTARR">
+        <img src="https://streak-stats.demolab.com?user=MDMOINAKHTARR&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" width="100%" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://leetcode.com/__moinn_">
+        <img src="https://leetcard.jacoblin.cool/__moinn_?theme=dark&font=Syne%20Mono&ext=contest" width="100%" alt="LeetCode Card" />
+      </a>
+      <br/>
+      <a href="https://github.com/MDMOINAKHTARR">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDMOINAKHTARR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5" width="100%" alt="Top Languages" />
+      </a>
+    </td>
   </tr>
 </table>
 
-### 🔥 Problem Solving Streak
+---
+
+### Leadership & Lore
+
+* **Cluster Data Science Club**: Event Management Head at VIPS-TC / VSET. Leading technical workshops, hackathons, and AI speaker sessions.
+* **Discipline & Versatility**: Batman Family enthusiast. Nightwing is the standard for agility, focus, and continuous execution.
+
+---
+
+### Connect
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdmoinakhtar&theme=tokyonight&hide_border=true" alt="LeetCode Streak" />
+  <a href="https://linkedin.com/in/mdmoinakhtar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/___moinn_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/MDMOINAKHTARR/Portfolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://leetcode.com/__moinn_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:mohdmoinakhtar081@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-## 🏆 Leadership & Lore
-* **Data Science Club (Cluster)**: Serving as the **Event Management Head** at Vivekananda School of Engineering and Technology. Leading the organization and management of technical events, workshops, and webinars focused on data science and AI.
-* **Vigilante Hobbies**: Huge fan of the **Batman Family**—Nightwing is my blueprint for discipline and versatility.
-
----
-
-## 📫 Secure Line
 <p align="center">
-<a href="https://linkedin.com/in/mdmoinakhtar" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mohdmoinakhtar081@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/MDMOINAKHTARR_moinn" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MDMOINAKHTARR&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MDMOINAKHTARR&label=Profile%20Intelligence%20Gathered&color=7AA2F7&style=flat-square" alt="Profile Views" />
-</p>
-
----
 <p align="center">
   <i>"The night is darkest just before the code finally compiles."</i>
 </p>
