@@ -1,25 +1,32 @@
-<div align="center">
-  <h1>Md Moin Akhtar</h1>
-  <p>
-    <b>Software Engineer & AI Integrator</b><br>
-    <sub>Full-Stack Systems • Autonomous AI Agents • Applied Machine Learning</sub>
-  </p>
-  <a href="https://github.com/MDMOINAKHTARR">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg5eng1ZmFidTUwNmkycTlod2RvNmxmMm9hcjNxNnhhNWd6MDR6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvlJSmxmKSXyE/giphy.gif" width="400" alt="Nightwing" />
-  </a>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+AI+Integrator;Published+IEEE+Researcher+%5BICAUC+'26%5D;Full-Stack+Architectures+%7C+TypeScript+%7C+Python;Winner+%40+Hermes+x+GrowthX+Buildathon;Nightwing+Protocol+Activated" alt="Typing SVG" />
-  </p>
-  <p>
-    <a href="https://github.com/MDMOINAKHTARR"><img src="https://img.shields.io/badge/Status-Active_%2F_Deployable-059669?style=flat-square" alt="Status" /></a>
-    <a href="https://github.com/MDMOINAKHTARR"><img src="https://img.shields.io/badge/Education-B.Tech_AI_%26_Data_Science-2563eb?style=flat-square" alt="Education" /></a>
-    <a href="https://ieeexplore.ieee.org/document/11441054"><img src="https://img.shields.io/badge/IEEE_Xplore-Document_%2311441054-00629b?style=flat-square" alt="IEEE Research" /></a>
-    <a href="https://github.com/MDMOINAKHTARR"><img src="https://img.shields.io/badge/Location-New_Delhi%2C_India-4b5563?style=flat-square" alt="Location" /></a>
-  </p>
-</div>
-
-### About
-6th-semester B.Tech student in **Artificial Intelligence and Data Science** at Vivekananda Institute of Professional Studies (VIPS-TC), New Delhi. My work centers on bridging applied machine learning research with scalable, production-ready web platforms and developer tools.
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <a href="https://github.com/MDMOINAKHTARR">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg5eng1ZmFidTUwNmkycTlod2RvNmxmMm9hcjNxNnhhNWd6MDR6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvlJSmxmKSXyE/giphy.gif" width="100%" alt="Nightwing" />
+      </a>
+    </td>
+    <td width="62%" valign="middle">
+      <h1>Md Moin Akhtar</h1>
+      <p>
+        <b>Software Engineer &amp; AI Integrator</b><br>
+        <sub>Full-Stack Systems • Autonomous AI Agents • Applied Machine Learning</sub>
+      </p>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1200&color=7AA2F7&vCenter=true&width=440&lines=Software+Engineer+%26+AI+Integrator;Published+IEEE+Researcher+%5BICAUC+'26%5D;Full-Stack+%7C+TypeScript+%7C+Python;Winner+%40+GrowthX+Buildathon;Nightwing+Protocol+Activated" alt="Typing SVG" />
+      </p>
+      <p>
+        6th-semester B.Tech in <b>AI &amp; Data Science</b> at VIPS-TC, New Delhi.<br>
+        Bridging applied machine learning research with scalable, production-grade web systems and developer tools.
+      </p>
+      <p>
+        <a href="https://github.com/MDMOINAKHTARR"><img src="https://img.shields.io/badge/Status-Active_%2F_Deployable-059669?style=flat-square" alt="Status" /></a>
+        <a href="https://github.com/MDMOINAKHTARR"><img src="https://img.shields.io/badge/Education-B.Tech_AI_%26_DS-2563eb?style=flat-square" alt="Education" /></a>
+        <a href="https://ieeexplore.ieee.org/document/11441054"><img src="https://img.shields.io/badge/IEEE_Xplore-%2311441054-00629b?style=flat-square" alt="IEEE Research" /></a>
+        <a href="https://github.com/MDMOINAKHTARR"><img src="https://img.shields.io/badge/Base-New_Delhi-4b5563?style=flat-square" alt="Location" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### Featured Research & Projects
 * **AI Hallucination Risk Estimator** `[IEEE Xplore #11441054]`  
